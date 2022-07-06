@@ -93,3 +93,39 @@ section{
     color: white;
     font-size: 700;
 }
+.dependontwo{
+    display: flex;
+}
+.dependtwo img{
+width: 100%;
+}
+.lastone{
+    text-align: center;
+}
+.emailbox{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:20vh;
+    width: 200vh;
+    padding: 10px;
+    border-radius: 5px;
+    background: goldenrod;
+    box-shadow: 10px 10px 15px ;
+}
+.emailbox button{
+    color: rgb(250, 8, 189);
+}
+#footer p{
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
+.lastbox{
+    width: 100%;
+    height: auto;
+    background: black;
+    color: white;
+}
